@@ -1,3 +1,5 @@
+My kaggle profile - https://www.kaggle.com/shashi247
+
 My first Machine learning model to predict the sale price of properties
 
 Includes below learning -
